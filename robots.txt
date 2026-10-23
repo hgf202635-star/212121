@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://212121.pages.dev/sitemap.xml
